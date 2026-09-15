@@ -1,0 +1,51 @@
+name: Actualizar manifest de Gluplandia
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'packs/1.0.0/mods/**'
+      - 'packs/1.0.0/config/**'
+      - 'packs/1.0.0/resourcepacks/**'
+      - 'packs/1.0.0/shaderpacks/**'
+      - 'tools/build-manifest.mjs'
+      - '.github/workflows/build-manifest.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Preparar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generar manifest
+        env:
+          PACK_VERSION: '1.0.0'
+          FABRIC_VERSION: '0.19.5'
+          PACK_BRANCH: 'main'
+        run: node tools/build-manifest.mjs
+
+      - name: Guardar manifest actualizado
+        shell: bash
+        run: |
+          if git diff --quiet -- packs/1.0.0/manifest.json; then
+            echo "El manifest ya estaba actualizado."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add packs/1.0.0/manifest.json
+          git commit -m "chore: actualizar manifest del modpack"
+          git push
