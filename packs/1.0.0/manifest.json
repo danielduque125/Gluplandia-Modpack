@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "1.0.0",
-  "revision": 8,
+  "revision": 9,
   "minecraftVersion": "26.2",
   "fabricVersion": "0.19.5",
   "files": [
@@ -210,6 +210,33 @@
       "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/VISUAL_ARMAS_weaponmaster_ydm-fabric-26.2-4.4.4.jar",
       "sha256": "ec1900e3ce5cba8490f90f2a65066ced1fc7590d4694d05eb511cef6533316dd",
       "size": 307458,
+      "required": true
+    },
+    {
+      "id": "mods/VISUAL_CAMERA_F5_Smooth F5 v1.3.2-26.2.jar",
+      "name": "VISUAL_CAMERA_F5_Smooth F5 v1.3.2-26.2.jar",
+      "path": "mods/VISUAL_CAMERA_F5_Smooth F5 v1.3.2-26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/VISUAL_CAMERA_F5_Smooth%20F5%20v1.3.2-26.2.jar",
+      "sha256": "ec88d486f5c5990783ca914b6274fa2841e08eafe091c372c40513a9ce8cc73c",
+      "size": 33281,
+      "required": true
+    },
+    {
+      "id": "mods/VISUAL_CAMERA_F5architectury-fabric-21.1.10.jar",
+      "name": "VISUAL_CAMERA_F5architectury-fabric-21.1.10.jar",
+      "path": "mods/VISUAL_CAMERA_F5architectury-fabric-21.1.10.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/VISUAL_CAMERA_F5architectury-fabric-21.1.10.jar",
+      "sha256": "c38877ec420be75e4c2e9a063f6f978973aa07578ca27bfa23976b96796d0ff4",
+      "size": 624052,
+      "required": true
+    },
+    {
+      "id": "mods/VISUAL_CAMERA_F5midnightlib-fabric-1.9.3+26.2.jar",
+      "name": "VISUAL_CAMERA_F5midnightlib-fabric-1.9.3+26.2.jar",
+      "path": "mods/VISUAL_CAMERA_F5midnightlib-fabric-1.9.3+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/VISUAL_CAMERA_F5midnightlib-fabric-1.9.3%2B26.2.jar",
+      "sha256": "2de0991c14eb66825aa77cab4f4b0ef7fa8fb8f8e00b6a99b6f92a8c37e58e65",
+      "size": 60027,
       "required": true
     },
     {
