@@ -1,36 +1,8 @@
 {
   "schemaVersion": 1,
   "version": "1.0.0",
-  "revision": 2,
+  "revision": 3,
   "minecraftVersion": "26.2",
   "fabricVersion": "0.19.5",
-  "files": [
-    {
-      "id": "mods/fabric-api-0.160.0+26.2.jar",
-      "name": "fabric-api-0.160.0+26.2.jar",
-      "path": "mods/fabric-api-0.160.0+26.2.jar",
-      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/fabric-api-0.160.0%2B26.2.jar",
-      "sha256": "5f3dff88e1661166e222213302b25ace6c36dc3683804cbd4b5acf93138ea05e",
-      "size": 2542898,
-      "required": true
-    },
-    {
-      "id": "mods/skinlayers3d-fabric-1.11.2-mc26.2.jar",
-      "name": "skinlayers3d-fabric-1.11.2-mc26.2.jar",
-      "path": "mods/skinlayers3d-fabric-1.11.2-mc26.2.jar",
-      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/skinlayers3d-fabric-1.11.2-mc26.2.jar",
-      "sha256": "3b553acd510f3395b00ca1c26b5bb2e990c420a415350aec84d0f4255f3ca0a5",
-      "size": 1966389,
-      "required": true
-    },
-    {
-      "id": "mods/sodium-fabric-0.9.2+mc26.2.jar",
-      "name": "sodium-fabric-0.9.2+mc26.2.jar",
-      "path": "mods/sodium-fabric-0.9.2+mc26.2.jar",
-      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/sodium-fabric-0.9.2%2Bmc26.2.jar",
-      "sha256": "16a5e91db49750f8c046ecca3b8f2af5a28ea6f9b6581b42f123ca8fda20864f",
-      "size": 1885572,
-      "required": true
-    }
-  ]
+  "files": []
 }
