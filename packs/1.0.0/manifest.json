@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "1.0.0",
-  "revision": 6,
+  "revision": 7,
   "minecraftVersion": "26.2",
   "fabricVersion": "0.19.5",
   "files": [
@@ -39,15 +39,6 @@
       "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/EFFECTS_fzzy_config-0.7.7%2B26.2.jar",
       "sha256": "05a26670aab40fa301841873288e7a0521d605cdf2a9c4f06b6a13feda477918",
       "size": 2395514,
-      "required": true
-    },
-    {
-      "id": "mods/EFFECTS_SubtleEffects-fabric-26.2-1.14.3.jar",
-      "name": "EFFECTS_SubtleEffects-fabric-26.2-1.14.3.jar",
-      "path": "mods/EFFECTS_SubtleEffects-fabric-26.2-1.14.3.jar",
-      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/EFFECTS_SubtleEffects-fabric-26.2-1.14.3.jar",
-      "sha256": "c132d9138670c6c7821f233064db8e3a17c21f5b381fd31f723b1b3c9108f83a",
-      "size": 3456317,
       "required": true
     },
     {
