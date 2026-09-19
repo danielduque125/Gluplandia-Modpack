@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "1.0.0",
-  "revision": 7,
+  "revision": 8,
   "minecraftVersion": "26.2",
   "fabricVersion": "0.19.5",
   "files": [
@@ -192,6 +192,15 @@
       "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/SOUNDS_sound-physics-remastered-fabric-1.5.1%2B26.2%20(1).jar",
       "sha256": "5bf577901123044337070fee36c1731c86e2fc12923bbb6a1c4b49c3423adcd9",
       "size": 201669,
+      "required": true
+    },
+    {
+      "id": "mods/VISUA_CAMARA_BALANCEO_CameraOverhaul-v2.1.1-fabric+mc[26.1-plus]-downgrade.jar",
+      "name": "VISUA_CAMARA_BALANCEO_CameraOverhaul-v2.1.1-fabric+mc[26.1-plus]-downgrade.jar",
+      "path": "mods/VISUA_CAMARA_BALANCEO_CameraOverhaul-v2.1.1-fabric+mc[26.1-plus]-downgrade.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/VISUA_CAMARA_BALANCEO_CameraOverhaul-v2.1.1-fabric%2Bmc%5B26.1-plus%5D-downgrade.jar",
+      "sha256": "e5143cc41a492ec63faceff6c50407715641f45f13b9eb3ee3171b0f1f38ef28",
+      "size": 137221,
       "required": true
     },
     {
