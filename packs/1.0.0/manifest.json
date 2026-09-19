@@ -1,8 +1,216 @@
 {
   "schemaVersion": 1,
   "version": "1.0.0",
-  "revision": 3,
+  "revision": 4,
   "minecraftVersion": "26.2",
   "fabricVersion": "0.19.5",
-  "files": []
+  "files": [
+    {
+      "id": "mods/EFFECTS_fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "name": "EFFECTS_fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "path": "mods/EFFECTS_fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/EFFECTS_fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+      "sha256": "620c2709be2a262b837cf976f6f85f6eda80a56af2ba4242e0bdc83a60fee7a5",
+      "size": 8142858,
+      "required": true
+    },
+    {
+      "id": "mods/EFFECTS_fzzy_config-0.7.7+26.2.jar",
+      "name": "EFFECTS_fzzy_config-0.7.7+26.2.jar",
+      "path": "mods/EFFECTS_fzzy_config-0.7.7+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/EFFECTS_fzzy_config-0.7.7%2B26.2.jar",
+      "sha256": "05a26670aab40fa301841873288e7a0521d605cdf2a9c4f06b6a13feda477918",
+      "size": 2395514,
+      "required": true
+    },
+    {
+      "id": "mods/EFFECTS_SubtleEffects-fabric-26.2-1.14.3.jar",
+      "name": "EFFECTS_SubtleEffects-fabric-26.2-1.14.3.jar",
+      "path": "mods/EFFECTS_SubtleEffects-fabric-26.2-1.14.3.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/EFFECTS_SubtleEffects-fabric-26.2-1.14.3.jar",
+      "sha256": "c132d9138670c6c7821f233064db8e3a17c21f5b381fd31f723b1b3c9108f83a",
+      "size": 3456317,
+      "required": true
+    },
+    {
+      "id": "mods/MOVES_firstperson-fabric-2.7.2-mc26.2.jar",
+      "name": "MOVES_firstperson-fabric-2.7.2-mc26.2.jar",
+      "path": "mods/MOVES_firstperson-fabric-2.7.2-mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/MOVES_firstperson-fabric-2.7.2-mc26.2.jar",
+      "sha256": "0bec2670484e134abff40df717e86009cd66331e0e57581f5c91a9ad52673843",
+      "size": 1600772,
+      "required": true
+    },
+    {
+      "id": "mods/MOVES_notenoughanimations-fabric-1.12.5-mc26.2.jar",
+      "name": "MOVES_notenoughanimations-fabric-1.12.5-mc26.2.jar",
+      "path": "mods/MOVES_notenoughanimations-fabric-1.12.5-mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/MOVES_notenoughanimations-fabric-1.12.5-mc26.2.jar",
+      "sha256": "8ef1069d4639299e473077ded3f5a6b22045e581e8a9fd51bbc470fc50675c9e",
+      "size": 1863477,
+      "required": true
+    },
+    {
+      "id": "mods/MOVES_waveycapes-fabric-1.11.2-mc26.2 (1).jar",
+      "name": "MOVES_waveycapes-fabric-1.11.2-mc26.2 (1).jar",
+      "path": "mods/MOVES_waveycapes-fabric-1.11.2-mc26.2 (1).jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/MOVES_waveycapes-fabric-1.11.2-mc26.2%20(1).jar",
+      "sha256": "5e3c43104b802ec258b9002d8105e555280f06ba912f381529f44908e14344c2",
+      "size": 1771414,
+      "required": true
+    },
+    {
+      "id": "mods/REN_dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar",
+      "name": "REN_dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar",
+      "path": "mods/REN_dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/REN_dynamic-fps-3.11.9%2Bminecraft-26.2.0-fabric.jar",
+      "sha256": "a2c4865320e41deb2e462c4999804106d620c15089d61cbcb0d6505959a4a47b",
+      "size": 188740,
+      "required": true
+    },
+    {
+      "id": "mods/REN_entity_model_features-3.3.8-26.2-fabric.jar",
+      "name": "REN_entity_model_features-3.3.8-26.2-fabric.jar",
+      "path": "mods/REN_entity_model_features-3.3.8-26.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/REN_entity_model_features-3.3.8-26.2-fabric.jar",
+      "sha256": "714686cefe56a7e46fa1e13ecdeddcb55ddfbb9715ae5b1ffd7573c1928d9fdd",
+      "size": 650678,
+      "required": true
+    },
+    {
+      "id": "mods/REN_entity_texture_features-7.2.4-26.2-fabric.jar",
+      "name": "REN_entity_texture_features-7.2.4-26.2-fabric.jar",
+      "path": "mods/REN_entity_texture_features-7.2.4-26.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/REN_entity_texture_features-7.2.4-26.2-fabric.jar",
+      "sha256": "351c0f40fa9cb760f51b8a0819c5ec5f5450a2787ced8e5200a7c695cb16500e",
+      "size": 776882,
+      "required": true
+    },
+    {
+      "id": "mods/REN_entityculling-fabric-1.11.0-mc26.2.jar",
+      "name": "REN_entityculling-fabric-1.11.0-mc26.2.jar",
+      "path": "mods/REN_entityculling-fabric-1.11.0-mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/REN_entityculling-fabric-1.11.0-mc26.2.jar",
+      "sha256": "0c0b256077f325ce991fe5bd6b249a3b5ad00d860a474d1c29195f1e4abf21f0",
+      "size": 1508209,
+      "required": true
+    },
+    {
+      "id": "mods/REN_fabric-api-0.161.0+26.2.jar",
+      "name": "REN_fabric-api-0.161.0+26.2.jar",
+      "path": "mods/REN_fabric-api-0.161.0+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/REN_fabric-api-0.161.0%2B26.2.jar",
+      "sha256": "e5b858ceb13290c274e31cb888ff5a1a40cb91067e7ffab0b5b775aec51e216a",
+      "size": 2566123,
+      "required": true
+    },
+    {
+      "id": "mods/REN_ferritecore-9.0.0-fabric.jar",
+      "name": "REN_ferritecore-9.0.0-fabric.jar",
+      "path": "mods/REN_ferritecore-9.0.0-fabric.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/REN_ferritecore-9.0.0-fabric.jar",
+      "sha256": "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22",
+      "size": 72677,
+      "required": true
+    },
+    {
+      "id": "mods/REN_iris-fabric-1.11.4+mc26.2.jar",
+      "name": "REN_iris-fabric-1.11.4+mc26.2.jar",
+      "path": "mods/REN_iris-fabric-1.11.4+mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/REN_iris-fabric-1.11.4%2Bmc26.2.jar",
+      "sha256": "f1f7ab57c974d193ba33aa285864a0ded949216f402116fceaf4dc7739b4dd7c",
+      "size": 2821616,
+      "required": true
+    },
+    {
+      "id": "mods/REN_sodium-extra-fabric-0.9.4+mc26.2.jar",
+      "name": "REN_sodium-extra-fabric-0.9.4+mc26.2.jar",
+      "path": "mods/REN_sodium-extra-fabric-0.9.4+mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/REN_sodium-extra-fabric-0.9.4%2Bmc26.2.jar",
+      "sha256": "26f744b0966d2ee84cc767aaea8ab106ed778d0f2a4130b4ce320332a55b483c",
+      "size": 484469,
+      "required": true
+    },
+    {
+      "id": "mods/REN_sodium-fabric-0.9.2+mc26.2 (1).jar",
+      "name": "REN_sodium-fabric-0.9.2+mc26.2 (1).jar",
+      "path": "mods/REN_sodium-fabric-0.9.2+mc26.2 (1).jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/REN_sodium-fabric-0.9.2%2Bmc26.2%20(1).jar",
+      "sha256": "16a5e91db49750f8c046ecca3b8f2af5a28ea6f9b6581b42f123ca8fda20864f",
+      "size": 1885572,
+      "required": true
+    },
+    {
+      "id": "mods/SKIN_skinlayers3d-fabric-1.11.3-mc26.2.jar",
+      "name": "SKIN_skinlayers3d-fabric-1.11.3-mc26.2.jar",
+      "path": "mods/SKIN_skinlayers3d-fabric-1.11.3-mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/SKIN_skinlayers3d-fabric-1.11.3-mc26.2.jar",
+      "sha256": "813709ca903e8c8b004ab7114845bed5205744ad562eab9f0360bddd551b81a8",
+      "size": 1890348,
+      "required": true
+    },
+    {
+      "id": "mods/SOUNDS_CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
+      "name": "SOUNDS_CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
+      "path": "mods/SOUNDS_CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/SOUNDS_CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
+      "sha256": "8bf79bc2940c4272aa954a561831a36cfc70dfe7c26db16f8daf222e39b9ce77",
+      "size": 1396350,
+      "required": true
+    },
+    {
+      "id": "mods/SOUNDS_PresenceFootsteps-1.13.3+26.2.jar",
+      "name": "SOUNDS_PresenceFootsteps-1.13.3+26.2.jar",
+      "path": "mods/SOUNDS_PresenceFootsteps-1.13.3+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/SOUNDS_PresenceFootsteps-1.13.3%2B26.2.jar",
+      "sha256": "f1f7e37ffc5a56cf7cc9833d8c6b48680340554d72498160df021c6fc354af13",
+      "size": 5749193,
+      "required": true
+    },
+    {
+      "id": "mods/SOUNDS_sound-physics-remastered-fabric-1.5.1+26.2 (1).jar",
+      "name": "SOUNDS_sound-physics-remastered-fabric-1.5.1+26.2 (1).jar",
+      "path": "mods/SOUNDS_sound-physics-remastered-fabric-1.5.1+26.2 (1).jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/SOUNDS_sound-physics-remastered-fabric-1.5.1%2B26.2%20(1).jar",
+      "sha256": "5bf577901123044337070fee36c1731c86e2fc12923bbb6a1c4b49c3423adcd9",
+      "size": 201669,
+      "required": true
+    },
+    {
+      "id": "mods/VISUAL_ARMAS_weaponmaster_ydm-fabric-26.2-4.4.4.jar",
+      "name": "VISUAL_ARMAS_weaponmaster_ydm-fabric-26.2-4.4.4.jar",
+      "path": "mods/VISUAL_ARMAS_weaponmaster_ydm-fabric-26.2-4.4.4.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/VISUAL_ARMAS_weaponmaster_ydm-fabric-26.2-4.4.4.jar",
+      "sha256": "ec1900e3ce5cba8490f90f2a65066ced1fc7590d4694d05eb511cef6533316dd",
+      "size": 307458,
+      "required": true
+    },
+    {
+      "id": "mods/VISUAL_cloth-config-26.2.155.jar",
+      "name": "VISUAL_cloth-config-26.2.155.jar",
+      "path": "mods/VISUAL_cloth-config-26.2.155.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/VISUAL_cloth-config-26.2.155.jar",
+      "sha256": "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349",
+      "size": 1135186,
+      "required": true
+    },
+    {
+      "id": "mods/VISUAL_GUI_blur-fabric-6.3.1+26.2.jar",
+      "name": "VISUAL_GUI_blur-fabric-6.3.1+26.2.jar",
+      "path": "mods/VISUAL_GUI_blur-fabric-6.3.1+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/VISUAL_GUI_blur-fabric-6.3.1%2B26.2.jar",
+      "sha256": "b61a948b78e8bf026cc277618349e161def0535e7923858b923d8e332d536248",
+      "size": 210089,
+      "required": true
+    },
+    {
+      "id": "mods/VISUAL_visuality-0.7.14+26.2.jar",
+      "name": "VISUAL_visuality-0.7.14+26.2.jar",
+      "path": "mods/VISUAL_visuality-0.7.14+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/VISUAL_visuality-0.7.14%2B26.2.jar",
+      "sha256": "feca006d41b35ae5822fbbfb3b314093a6490244ff3d639bfa03e51793adec69",
+      "size": 81116,
+      "required": true
+    }
+  ]
 }
