@@ -1,10 +1,28 @@
 {
   "schemaVersion": 1,
   "version": "1.0.0",
-  "revision": 4,
+  "revision": 5,
   "minecraftVersion": "26.2",
   "fabricVersion": "0.19.5",
   "files": [
+    {
+      "id": "mods/CAMERA_ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+      "name": "CAMERA_ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+      "path": "mods/CAMERA_ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/CAMERA_ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+      "sha256": "1b4b17fc4150481447201152604688c74726d6631c9a626dd21f2c5e2b3df1ac",
+      "size": 609550,
+      "required": true
+    },
+    {
+      "id": "mods/CAMERA_ShoulderSurfing-Fabric-26.2-5.0.11.jar",
+      "name": "CAMERA_ShoulderSurfing-Fabric-26.2-5.0.11.jar",
+      "path": "mods/CAMERA_ShoulderSurfing-Fabric-26.2-5.0.11.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/CAMERA_ShoulderSurfing-Fabric-26.2-5.0.11.jar",
+      "sha256": "89181e0c5fab1f00486cb479c329033d7ccaee10a59aad85c0621274de129b92",
+      "size": 343777,
+      "required": true
+    },
     {
       "id": "mods/EFFECTS_fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
       "name": "EFFECTS_fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
@@ -30,6 +48,15 @@
       "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/EFFECTS_SubtleEffects-fabric-26.2-1.14.3.jar",
       "sha256": "c132d9138670c6c7821f233064db8e3a17c21f5b381fd31f723b1b3c9108f83a",
       "size": 3456317,
+      "required": true
+    },
+    {
+      "id": "mods/MOVES_ANIMACION_punchy-2.8a-fabric-26.2 (1).jar",
+      "name": "MOVES_ANIMACION_punchy-2.8a-fabric-26.2 (1).jar",
+      "path": "mods/MOVES_ANIMACION_punchy-2.8a-fabric-26.2 (1).jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/MOVES_ANIMACION_punchy-2.8a-fabric-26.2%20(1).jar",
+      "sha256": "60d5924d43fb35a6e38bb04c4727f3d637f6d27f1efba9dcebbf6a08c4df63b5",
+      "size": 2067702,
       "required": true
     },
     {
