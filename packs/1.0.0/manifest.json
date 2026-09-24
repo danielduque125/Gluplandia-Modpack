@@ -1,10 +1,19 @@
 {
   "schemaVersion": 1,
   "version": "1.0.0",
-  "revision": 9,
+  "revision": 10,
   "minecraftVersion": "26.2",
   "fabricVersion": "0.19.5",
   "files": [
+    {
+      "id": "mods/AsyncParticles-26.2.2.9+26.2.jar",
+      "name": "AsyncParticles-26.2.2.9+26.2.jar",
+      "path": "mods/AsyncParticles-26.2.2.9+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/AsyncParticles-26.2.2.9%2B26.2.jar",
+      "sha256": "3c1f5913f39ccbd387464ce248e0746f8042756409c351d22514d40d9b68d9f5",
+      "size": 664699,
+      "required": true
+    },
     {
       "id": "mods/CAMERA_ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
       "name": "CAMERA_ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
@@ -24,6 +33,15 @@
       "required": true
     },
     {
+      "id": "mods/continuity-3.0.1+26.2.jar",
+      "name": "continuity-3.0.1+26.2.jar",
+      "path": "mods/continuity-3.0.1+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/continuity-3.0.1%2B26.2.jar",
+      "sha256": "2094a52b98e247f664ef2ecdbb41d7dcad7779cc7a8fb87f0ed8a4f8196c0446",
+      "size": 1040013,
+      "required": true
+    },
+    {
       "id": "mods/EFFECTS_fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
       "name": "EFFECTS_fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
       "path": "mods/EFFECTS_fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
@@ -39,6 +57,60 @@
       "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/EFFECTS_fzzy_config-0.7.7%2B26.2.jar",
       "sha256": "05a26670aab40fa301841873288e7a0521d605cdf2a9c4f06b6a13feda477918",
       "size": 2395514,
+      "required": true
+    },
+    {
+      "id": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "name": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "path": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/fabric-language-kotlin-1.14.1%2Bkotlin.2.4.20.jar",
+      "sha256": "620c2709be2a262b837cf976f6f85f6eda80a56af2ba4242e0bdc83a60fee7a5",
+      "size": 8142858,
+      "required": true
+    },
+    {
+      "id": "mods/Gnetum-4.5.5+26.2-fabric.jar",
+      "name": "Gnetum-4.5.5+26.2-fabric.jar",
+      "path": "mods/Gnetum-4.5.5+26.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/Gnetum-4.5.5%2B26.2-fabric.jar",
+      "sha256": "90eea283889fed5bf182e96f472ff3e16928865ca5f4e374164ca69b1f18e691",
+      "size": 93556,
+      "required": true
+    },
+    {
+      "id": "mods/ImmediatelyFast-Fabric-1.16.4+26.2.jar",
+      "name": "ImmediatelyFast-Fabric-1.16.4+26.2.jar",
+      "path": "mods/ImmediatelyFast-Fabric-1.16.4+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/ImmediatelyFast-Fabric-1.16.4%2B26.2.jar",
+      "sha256": "c5ed022ebce7f46606cbd20a0a725787627f5ce486da5a602c9cda496f1aeb69",
+      "size": 98633,
+      "required": true
+    },
+    {
+      "id": "mods/Ixeris-4.6.5+26.2-fabric.jar",
+      "name": "Ixeris-4.6.5+26.2-fabric.jar",
+      "path": "mods/Ixeris-4.6.5+26.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/Ixeris-4.6.5%2B26.2-fabric.jar",
+      "sha256": "34bc21ffcbc76665f99924d665254bbc707fb6d9642b02716a6de441984fdbde",
+      "size": 761542,
+      "required": true
+    },
+    {
+      "id": "mods/modernfix-5.27.19-build.1.jar",
+      "name": "modernfix-5.27.19-build.1.jar",
+      "path": "mods/modernfix-5.27.19-build.1.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/modernfix-5.27.19-build.1.jar",
+      "sha256": "f9d0b89ae51e4436466ded48c45fec3528b3cca05799cb29837cf0ae81a08a9d",
+      "size": 1173963,
+      "required": true
+    },
+    {
+      "id": "mods/modmenu-20.0.2.jar",
+      "name": "modmenu-20.0.2.jar",
+      "path": "mods/modmenu-20.0.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/modmenu-20.0.2.jar",
+      "sha256": "1bf32f327b2257266e9dbd00b394800885c3a7c5ff86dc62be0dec129c1da482",
+      "size": 616610,
       "required": true
     },
     {
@@ -75,6 +147,42 @@
       "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/MOVES_waveycapes-fabric-1.11.2-mc26.2%20(1).jar",
       "sha256": "5e3c43104b802ec258b9002d8105e555280f06ba912f381529f44908e14344c2",
       "size": 1771414,
+      "required": true
+    },
+    {
+      "id": "mods/NoChatReports-FABRIC-26.2-v2.20.2.jar",
+      "name": "NoChatReports-FABRIC-26.2-v2.20.2.jar",
+      "path": "mods/NoChatReports-FABRIC-26.2-v2.20.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/NoChatReports-FABRIC-26.2-v2.20.2.jar",
+      "sha256": "93c761e9fb7d76269a0d5b9807e19db164b3a2fd0b8ebd0550fe94f832cf396f",
+      "size": 239602,
+      "required": true
+    },
+    {
+      "id": "mods/obe+26.2-1.1.46.jar",
+      "name": "obe+26.2-1.1.46.jar",
+      "path": "mods/obe+26.2-1.1.46.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/obe%2B26.2-1.1.46.jar",
+      "sha256": "58700d339856ddf0f3504a0e8a583445539579cf6dd1377f5df9a8da111a93ec",
+      "size": 182804,
+      "required": true
+    },
+    {
+      "id": "mods/quick-pack-fabric-1.5.0+26.2.jar",
+      "name": "quick-pack-fabric-1.5.0+26.2.jar",
+      "path": "mods/quick-pack-fabric-1.5.0+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/quick-pack-fabric-1.5.0%2B26.2.jar",
+      "sha256": "c8555945bc79c88d61095f3ca05200d8f7ccbb0a197e91ff27333384a3abeb75",
+      "size": 20265,
+      "required": true
+    },
+    {
+      "id": "mods/reeses-sodium-options-fabric-2.2.3+mc26.2.jar",
+      "name": "reeses-sodium-options-fabric-2.2.3+mc26.2.jar",
+      "path": "mods/reeses-sodium-options-fabric-2.2.3+mc26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/reeses-sodium-options-fabric-2.2.3%2Bmc26.2.jar",
+      "sha256": "49b68a887f5691b805efbe73c4e6e622cda5c322431ef68f81c8953de4041911",
+      "size": 259465,
       "required": true
     },
     {
@@ -156,6 +264,15 @@
       "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/REN_sodium-fabric-0.9.2%2Bmc26.2%20(1).jar",
       "sha256": "16a5e91db49750f8c046ecca3b8f2af5a28ea6f9b6581b42f123ca8fda20864f",
       "size": 1885572,
+      "required": true
+    },
+    {
+      "id": "mods/Resourcify (26.2-fabric)-1.8.6.jar",
+      "name": "Resourcify (26.2-fabric)-1.8.6.jar",
+      "path": "mods/Resourcify (26.2-fabric)-1.8.6.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/Resourcify%20(26.2-fabric)-1.8.6.jar",
+      "sha256": "c7e55869298a0c6a769437565cda31af08c6cd737e29d2472f5e84a5dc38e21c",
+      "size": 2865469,
       "required": true
     },
     {
@@ -273,6 +390,60 @@
       "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/VISUAL_visuality-0.7.14%2B26.2.jar",
       "sha256": "feca006d41b35ae5822fbbfb3b314093a6490244ff3d639bfa03e51793adec69",
       "size": 81116,
+      "required": true
+    },
+    {
+      "id": "mods/yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
+      "name": "yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
+      "path": "mods/yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/yet_another_config_lib_v3-3.9.6%2B26.2-fabric.jar",
+      "sha256": "829396c3b3e7d1801ae0e9e2921d0454c5a3078afdb6c6dda6b3d1819dfa0e3f",
+      "size": 1121529,
+      "required": true
+    },
+    {
+      "id": "mods/zconfig-1.0.0+26.x.jar",
+      "name": "zconfig-1.0.0+26.x.jar",
+      "path": "mods/zconfig-1.0.0+26.x.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/zconfig-1.0.0%2B26.x.jar",
+      "sha256": "b48151a35cc495bcb612a3c400770cdce5b4ad1302e072407acacd34a765ebe8",
+      "size": 405423,
+      "required": true
+    },
+    {
+      "id": "mods/zfastnoise-1.1.0-beta.6+26.2.jar",
+      "name": "zfastnoise-1.1.0-beta.6+26.2.jar",
+      "path": "mods/zfastnoise-1.1.0-beta.6+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/zfastnoise-1.1.0-beta.6%2B26.2.jar",
+      "sha256": "0320628a28cd6788b4c3ced63345a84029a741f73c07571581862de470062959",
+      "size": 52156,
+      "required": true
+    },
+    {
+      "id": "mods/zfastsurface-1.0.0-beta.4+26.2.jar",
+      "name": "zfastsurface-1.0.0-beta.4+26.2.jar",
+      "path": "mods/zfastsurface-1.0.0-beta.4+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/zfastsurface-1.0.0-beta.4%2B26.2.jar",
+      "sha256": "8ac639fdeb8881148af680b1da8f2ed47ec3cfa5870a2d0977e392fb76f01368",
+      "size": 38158,
+      "required": true
+    },
+    {
+      "id": "mods/zmatcomp-1.0.0-beta.4+26.2.jar",
+      "name": "zmatcomp-1.0.0-beta.4+26.2.jar",
+      "path": "mods/zmatcomp-1.0.0-beta.4+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/zmatcomp-1.0.0-beta.4%2B26.2.jar",
+      "sha256": "a7dbeb647ef25838dee20305df1e640e86386649e3747757cf02572a46c2bc7d",
+      "size": 92126,
+      "required": true
+    },
+    {
+      "id": "mods/zoomify-2.16.1+26.2.jar",
+      "name": "zoomify-2.16.1+26.2.jar",
+      "path": "mods/zoomify-2.16.1+26.2.jar",
+      "url": "https://raw.githubusercontent.com/danielduque125/Gluplandia-Modpack/main/packs/1.0.0/mods/zoomify-2.16.1%2B26.2.jar",
+      "sha256": "e014d36408e3d957bfce4d02d55d3703041902fa88bf96062694d69234b2d9e9",
+      "size": 562176,
       "required": true
     }
   ]
